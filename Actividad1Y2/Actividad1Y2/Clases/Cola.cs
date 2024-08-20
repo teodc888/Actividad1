@@ -27,7 +27,7 @@ namespace Actividad1Y2.Clases
         public object extraer()
         {
             if (lstObjet.Count == 0)
-                return true;
+                return false;
 
             object elementoElimiando = lstObjet.First();
 
@@ -39,7 +39,7 @@ namespace Actividad1Y2.Clases
         public object primero()
         {
             if (lstObjet.Count == 0)
-                return new object();
+                return false;
 
             return lstObjet.First();
         }
