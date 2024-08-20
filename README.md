@@ -25,5 +25,4 @@ utilizando para ello un array de Object y un contador de objetos.
 problema anterior pero esta vez utilizando un objeto List. Tener en cuenta que una
 Cola es una estructura FIFO (Primero en entrar primero en salir). </p>
 
-<img src="![image](https://github.com/user-attachments/assets/d54c0539-be78-478b-829b-220e6dcf0f2a)
-">
+<img src="https://github.com/user-attachments/assets/d54c0539-be78-478b-829b-220e6dcf0f2a">
