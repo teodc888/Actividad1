@@ -29,7 +29,7 @@ namespace Actividad1Y2.Clases
             if (lstObjet.Count == 0)
                 return false;
 
-            object elementoElimiando = lstObjet.First();
+            object elementoElimiando = lstObjet.Last();
 
             lstObjet.Remove(elementoElimiando);
 
