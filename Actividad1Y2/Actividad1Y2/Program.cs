@@ -16,6 +16,8 @@ Cola.añadir("Televisor Cola");
 int menu = 0;
 do
 {
+    Console.WriteLine("-------------------------------------");
+
     Console.WriteLine("1- Verificas estado de la pila");
     Console.WriteLine("2- Primer Elemento");
     Console.WriteLine("3- Extraer elemento");
@@ -23,6 +25,7 @@ do
     Console.WriteLine("4- Verificar estado de la cola");
     Console.WriteLine("5- Primer elemento de la cola");
     Console.WriteLine("6- Extraer elemento la cola");
+    Console.WriteLine("-------------------------------------");
 
     menu = int.Parse(Console.ReadLine());
 
